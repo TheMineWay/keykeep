@@ -1,6 +1,6 @@
 {
-  "name": "Keykeep",
-  "short_name": "Keykeep",
+  "name": "keykeep_client",
+  "short_name": "keykeep_client",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
